@@ -1,0 +1,7 @@
+
+ modules_sitemap_tree_categories_title = Do  you want to display a sitemap tree ?
+ modules_sitemap_tree_categories_description = Add a sitemap tree
+
+ modules_sitemap_tree_categories_box_heading_categories = Categories
+ modules_sitemap_tree_categories_header_title_top = Home Page
+

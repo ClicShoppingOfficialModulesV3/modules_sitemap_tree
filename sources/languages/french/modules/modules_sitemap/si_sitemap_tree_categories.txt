@@ -1,0 +1,7 @@
+
+modules_sitemap_tree_categories_title = Souhaitez-vous afficher l'arborescence de la cartographie du site ?
+modules_sitemap_tree_categories_description = Ajouter une aborescence du site
+
+modules_sitemap_tree_categories_box_heading_categories = Catégories
+modules_sitemap_tree_categories_header_title_top = Accueil
+
