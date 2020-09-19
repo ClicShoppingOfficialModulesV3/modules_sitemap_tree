@@ -27,7 +27,7 @@
       $this->title = CLICSHOPPING::getDef('modules_sitemap_tree_categories_title');
       $this->description = CLICSHOPPING::getDef('modules_sitemap_tree_categories_description');
 
-      if ( defined('MODULES_SITEMAP_TREE_CATEGORIES_STATUS') ) {
+      if ( defined('MODULES_SITEMAP_TREE_CATEGORIES_STATUS')) {
         $this->sort_order = MODULES_SITEMAP_TREE_CATEGORIES_SORT_ORDER;
         $this->enabled = (MODULES_SITEMAP_TREE_CATEGORIES_STATUS == 'True');
       }
@@ -44,7 +44,7 @@
       $CLICSHOPPING_Category = Registry::get('Category');
 
 // essentiel sinon conflit
-      if (isset($_GET['SiteMap']) )  {
+      if (isset($_GET['SiteMap']))  {
 
         $sitemap_tree = '<!-- start sitemap_tree -->' . "\n";
 
