@@ -14,6 +14,7 @@
 ?>
 <div class="col-md-<?php echo $content_width . ' ' . $position; ?>">
   <div class="separator"></div>
+  <div class="separator"></div>
   <div class="sitemapCategoryTreeTittleCategories"><h3><?php echo CLICSHOPPING::getDef('modules_sitemap_tree_categories_box_heading_categories'); ?></h3></div>
   <div class="SitemapCategoryTreeBlockCategories">
     <div class="SitemapCategoryTreeCategories">
